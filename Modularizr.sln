@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modularizr", "Modularizr\Modularizr.csproj", "{DEADD1E6-A693-4A69-8AAA-4B7DFF59F378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modularizr.Tests", "Modularizr.Tests\Modularizr.Tests.csproj", "{29BBEE23-0E78-4DBC-B684-70095C3082A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEADD1E6-A693-4A69-8AAA-4B7DFF59F378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEADD1E6-A693-4A69-8AAA-4B7DFF59F378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEADD1E6-A693-4A69-8AAA-4B7DFF59F378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEADD1E6-A693-4A69-8AAA-4B7DFF59F378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BBEE23-0E78-4DBC-B684-70095C3082A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BBEE23-0E78-4DBC-B684-70095C3082A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BBEE23-0E78-4DBC-B684-70095C3082A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BBEE23-0E78-4DBC-B684-70095C3082A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4BD853-51BD-4E5D-A150-D9481D62474F}
+	EndGlobalSection
+EndGlobal
